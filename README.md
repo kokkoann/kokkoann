@@ -4,7 +4,7 @@ Kokkoann
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Kokko+:].;I'm+a+student+in+Saltillo.;I'm+always+trayng+to+learn+new+skills!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Kokko+:].;I'm+a+student+in+Saltillo.;I'm+always+trying+to+learn+new+skills!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
@@ -22,7 +22,6 @@ Kokkoann
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
-![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
 <img width="48" alt="Processing 2021 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png"></a>
 
 
