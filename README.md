@@ -4,7 +4,7 @@ Kokkoann
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Kokko+;].;I'm+a+student+in+Saltillo.;I'm+always+trayng+to+learn+new+skills!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Kokko+:].;I'm+a+student+in+Saltillo.;I'm+always+trayng+to+learn+new+skills!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
