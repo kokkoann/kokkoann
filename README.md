@@ -23,6 +23,7 @@ Kokkoann
 ### Frameworks and Libraries
 
 <p>
+
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,react&perline=5)](https://skillicons.dev)
 
 
@@ -30,27 +31,30 @@ Kokkoann
 ### Software
 
 <p>
+
 	[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,blender,docker,figma,git,gitlab,notion,ps&perline=5)](https://skillicons.dev)
-</p>
+
 
 
 
 ### CLOUD
 
 <p>
+
 	 [![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=5)](https://skillicons.dev)
-</p>
+
 
 ### Game Engines
 
 <p>
+
 [![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=5)](https://skillicons.dev)
 
 ### IDEs
 
 <p>
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse&perline=5)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse&perline=5)](https://skillicons.dev)
 
 ## GitHub Stats
 
