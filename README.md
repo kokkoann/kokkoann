@@ -65,7 +65,7 @@ Kokkoann
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=kokkoann&theme=react-dark&hide_border=true&area=true) |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=kokkoann&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kokkoanntheme=algolia)                    | 
+| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kokkoann&theme=algolia)                    | 
     
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
@@ -76,6 +76,5 @@ Kokkoann
 
 
 
-------
-Credit: [Null3000](https://github.com/null3000)
+
 
