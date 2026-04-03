@@ -57,16 +57,10 @@ Kokkoann
 
 
 
-	
-## GitHub Stats
-
-
 ## GitHub Stats
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kokkoann&theme=react-dark) |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kokkoann&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kokkoann&theme=algolia)                    | 
 
 
@@ -76,9 +70,9 @@ Kokkoann
 
     
 
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
+ |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=kokkoann&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokkoann&layout=compact&theme=algolia)
+| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kokkoann&layout=compact&theme=algolia)
 	
 ![](https://komarev.com/ghpvc/?username=kokkoann&style=flat-square)
 
