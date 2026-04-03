@@ -68,13 +68,6 @@ Kokkoann
 
 
 
-    
-
- |                                                           Top Languages                                                           |      
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kokkoann&layout=compact&theme=algolia"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kokkoann&style=flat-square"/>
 </p>
